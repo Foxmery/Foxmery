@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**Foxmery/Foxmery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year **Artificial Intelligence** student at **Technical University Varna**. I am passionate about engineering and space technology.
 
-Here are some ideas to get you started:
+### 🔭 Currently
+* **Studying:** AI, C++
+* **Project:** Semester homework - *Beauty Contest*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Education & Events
+* **SoftUni:** Finished Java Fundamentals course
+* **ICT Cluster:** Participated in "Technostart" Startup Competition (October 2024)
+* **Networking Events:** Varnapreneurs, Entrepreneur Night Out | Grand Tour 2023
+* **Volunteering:** Innowave Summit (2023)
+
+### 💼 Work & Background
+* ⚙️ **Foundry Worker:** Learning metal casting and industrial processes
+* 🎭 **Actor & Singer:** Opera Varna (11 years experience)
