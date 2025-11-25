@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hallo
 
 I am a first-year **Artificial Intelligence** student at **Technical University Varna**. I am passionate about engineering and space technology.
 
